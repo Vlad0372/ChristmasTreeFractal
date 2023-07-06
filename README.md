@@ -6,8 +6,10 @@ only sets start values for some variables and then passes them to the library. T
 
 This example uses a christmas tree set of start values.
 
+#### $\textcolor{red}{\textsf{Attention! Set the CPU option before run the project as x86}}$
+
+
 ---
-
 __Some screens:__
-
+ 
 ![screen1](/screenshots/screen1.png)
